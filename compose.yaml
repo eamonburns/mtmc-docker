@@ -1,0 +1,6 @@
+services:
+  mtmc:
+    image: ghcr.io/eamonburns/mtmc
+    build: .
+    ports:
+      - 8080:8080
