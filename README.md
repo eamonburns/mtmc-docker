@@ -1,6 +1,6 @@
 # MTMC Docker
 
-A simple Docker container to run the [MTMC](https://mtmc.cs.montana.edu/) ([Github](https://github.com/msu/mtmc/)).
+A simple Docker container to run the [MonTana Mini-Computer](https://mtmc.cs.montana.edu/) ([Github](https://github.com/msu/mtmc/)).
 
 ## Usage
 
